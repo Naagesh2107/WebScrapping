@@ -1,0 +1,501 @@
+Name,Sector,Employee count,Company Age(in years),Reviews Count,Highly Rated for,Critically Rated for,Overall Company Rating,Job Security Rating,Work-Life balance Rating,Company culture Rating,Skill development Rating,Work Satisfaction Rating,Salary & Benefits Rating,Promotions/Appraisal Rating
+TCS,IT Services & Consulting , 1 Lakh+ Employees , 56  ,79300.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.8,4.6,3.8,3.7,3.6,3.4,2.9,2.8
+Accenture,IT Services & Consulting , 1 Lakh+ Employees , 35  ,49400.0,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,3.9,3.7,3.9,3.9,3.6,3.6,3.3
+Cognizant,IT Services & Consulting , 1 Lakh+ Employees , 30  ,44700.0,,Promotions / Appraisal,3.9,3.7,3.7,3.7,3.7,3.5,3.5,3.2
+Wipro,IT Services & Consulting , 1 Lakh+ Employees , 79  ,42500.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.8,3.9,3.7,3.7,3.7,3.5,3.2,3.0
+Capgemini,IT Services & Consulting , 1 Lakh+ Employees , 57  ,36600.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",3.8,3.9,3.8,3.8,3.8,3.5,3.1,3.0
+HDFC Bank,Banking , 1 Lakh+ Employees , 30  ,35500.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,3.9,4.0,3.5,3.6,3.8,3.5,3.5,3.3
+ICICI Bank,Banking , 1 Lakh+ Employees , 30  ,35000.0,"Job Security, Skill Development / Learning, Company Culture",,4.0,4.1,3.7,3.8,3.9,3.6,3.7,3.7
+Infosys,IT Services & Consulting , 1 Lakh+ Employees , 43  ,34400.0,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",3.8,4.2,3.8,3.8,3.8,3.5,2.9,2.9
+Tech Mahindra,IT Services & Consulting , 1 Lakh+ Employees , 38  ,31600.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.7,3.6,3.5,3.5,3.5,3.4,3.2,3.0
+HCLTech,IT Services & Consulting , 1 Lakh+ Employees , 33  ,31500.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.9,3.7,3.5,3.5,3.4,3.0,2.8
+Genpact,IT Services & Consulting , 1 Lakh+ Employees , 27  ,28300.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",3.9,4.2,3.9,3.8,3.9,3.7,3.2,3.2
+Teleperformance,BPO , 50k-1 Lakh Employees , 46  ,24500.0,,,3.8,3.7,3.7,3.7,3.7,3.6,3.5,3.4
+Axis Bank,Banking , 50k-1 Lakh Employees , 31  ,23000.0,Job Security,Promotions / Appraisal,3.8,3.8,3.5,3.6,3.7,3.5,3.5,3.4
+Amazon,Internet , 1 Lakh+ Employees , 30  ,22900.0,"Company Culture, Salary & Benefits, Work Life Balance",,4.1,3.8,3.9,4.1,3.9,3.8,4.0,3.5
+Concentrix Corporation,BPO , 50k-1 Lakh Employees , 41  ,22900.0,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",3.9,4.1,3.6,3.8,3.6,3.5,3.3,3.1
+Jio,Telecom , 50k-1 Lakh Employees , 6  ,20900.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,3.9,3.9,3.7,3.6,3.8,3.6,3.7,3.3
+IBM,IT Services & Consulting , 1 Lakh+ Employees , 113  ,20400.0,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,4.1,4.1,4.1,4.0,4.0,3.8,3.5,3.3
+Reliance Retail,Retail , 1 Lakh+ Employees , 18  ,20100.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,3.9,3.8,3.7,3.7,3.9,3.7,3.7,3.3
+HDB Financial Services,NBFC , 1 Lakh+ Employees , 17  ,18500.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,4.0,3.8,3.8,3.8,3.9,3.7,3.5,3.4
+iEnergizer,BPO , 10k-50k Employees , 24  ,17600.0,"Company Culture, Job Security, Skill Development / Learning",,4.7,4.7,4.7,4.7,4.7,4.7,4.7,4.6
+Larsen & Toubro Limited,Engineering & Construction , 10k-50k Employees , 86  ,16800.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.0,4.0,3.5,3.7,4.0,3.6,3.8,3.4
+Deloitte,Management Consulting , 1 Lakh+ Employees , 179  ,15800.0,"Job Security, Skill Development / Learning, Salary & Benefits",Work Life Balance,3.9,3.9,3.4,3.8,3.9,3.5,3.9,3.5
+BYJU'S,EdTech , 10k-50k Employees , 13  ,15600.0,,"Job Security, Work Life Balance, Company Culture",3.1,2.3,2.6,2.7,3.1,2.7,3.5,2.9
+Kotak Mahindra Bank,Banking , 50k-1 Lakh Employees , 21  ,14800.0,Job Security,Promotions / Appraisal,3.8,3.8,3.6,3.6,3.7,3.4,3.4,3.3
+Vodafone Idea,Telecom , 5k-10k Employees , 6  ,14400.0,"Company Culture, Work Life Balance, Salary & Benefits",,4.1,3.9,4.0,4.0,3.9,3.8,3.9,3.6
+Reliance Industries,Oil & Gas , 1 Lakh+ Employees , 47  ,14200.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,4.1,4.1,3.9,3.8,4.0,3.8,3.7,3.4
+Bharti Airtel,Telecom , 10k-50k Employees , 29  ,12500.0,"Skill Development / Learning, Job Security, Salary & Benefits",,4.0,3.8,3.7,3.8,3.9,3.7,3.8,3.4
+Tata Motors,Automobile , 10k-50k Employees , 79  ,10800.0,"Job Security, Company Culture, Skill Development / Learning",,4.2,4.1,4.0,4.0,4.0,3.9,3.8,3.6
+WNS,BPO , 10k-50k Employees , 28  ,10000.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.5,3.7,3.4,3.3,3.2,3.2,3.0,2.8
+Flipkart,Internet , 10k-50k Employees , 17  ,9900.0,"Skill Development / Learning, Company Culture, Job Security",,4.0,3.8,3.8,3.9,3.9,3.7,3.8,3.4
+IndusInd Bank,Banking , 10k-50k Employees , 30  ,9600.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.7,3.6,3.6,3.4,3.4,3.3,3.3,3.1
+Ernst & Young,Management Consulting , 50k-1 Lakh Employees , 22  ,9200.0,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",3.6,3.8,3.1,3.3,3.7,3.2,3.4,3.2
+Mahindra & Mahindra,Automobile , 1 Lakh+ Employees , 79  ,9100.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.1,3.9,3.9,4.0,3.9,3.7,3.5
+AU Small Finance Bank,Banking , 10k-50k Employees , 28  ,9000.0,"Skill Development / Learning, Job Security, Company Culture",,4.4,4.3,4.2,4.3,4.3,4.2,4.2,4.1
+DXC Technology,IT Services & Consulting , 10k-50k Employees , 7  ,9000.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",3.7,3.6,3.8,3.6,3.7,3.5,3.2,2.9
+IDFC FIRST Bank,Banking , 10k-50k Employees , 6  ,9000.0,"Salary & Benefits, Skill Development / Learning, Job Security",,4.0,3.8,3.8,3.8,3.8,3.7,4.0,3.6
+LTIMindtree,IT Services & Consulting , 50k-1 Lakh Employees , 27  ,8900.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.5,3.6,3.4,3.5,3.3,3.1,2.7
+Infosys BPM,BPO , 10k-50k Employees , 22  ,8600.0,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",3.8,4.3,3.8,3.9,3.9,3.6,2.9,3.0
+Conneqt Business Solutions,BPO , 10k-50k Employees , 22  ,8100.0,,"Promotions / Appraisal, Salary & Benefits",3.7,3.6,3.5,3.6,3.6,3.4,3.2,3.0
+Bajaj Finserv,Financial Services , 50k-1 Lakh Employees , 17  ,8100.0,"Salary & Benefits, Skill Development / Learning, Job Security",,4.0,3.8,3.5,3.6,4.0,3.6,4.1,3.7
+HDFC Life,Insurance , 10k-50k Employees , 24  ,8000.0,"Skill Development / Learning, Job Security, Company Culture",,4.1,3.9,3.8,3.9,4.0,3.7,3.8,3.6
+PwC,Management Consulting , 10k-50k Employees , 144  ,7800.0,,"Work Life Balance, Promotions / Appraisal, Work Satisfaction",3.5,3.7,3.1,3.4,3.6,3.2,3.4,3.1
+Mphasis,IT Services & Consulting , 10k-50k Employees , 26  ,7400.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.5,3.5,3.3,3.3,3.2,2.8,2.6
+HSBC Group,Banking , 10k-50k Employees , 159  ,7000.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,4.1,4.0,4.0,3.8,3.7,3.5,3.4
+Yes Bank,Banking , 10k-50k Employees , 20  ,6800.0,Salary & Benefits,,3.9,3.6,3.7,3.6,3.6,3.5,3.8,3.5
+Maruti Suzuki,Automobile , 10k-50k Employees , 43  ,6800.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.2,4.2,3.9,4.0,4.0,4.0,4.2,3.8
+Startek,BPO , 10k-50k Employees , 7  ,6800.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.2,3.0,3.0,3.0,3.1,2.9,2.9,2.6
+Samsung,Consumer Electronics & Appliances , 50k-1 Lakh Employees , 55  ,6700.0,"Salary & Benefits, Job Security, Work Life Balance",,4.1,3.9,3.8,3.8,3.8,3.7,3.9,3.4
+Asian Paints,Chemicals , 5k-10k Employees , 82  ,6700.0,"Salary & Benefits, Skill Development / Learning, Job Security",,4.1,3.9,3.5,3.7,4.0,3.6,4.3,3.4
+Paytm,FinTech , 10k-50k Employees , 14  ,6700.0,,"Job Security, Promotions / Appraisal, Company Culture",3.3,2.8,3.1,3.0,3.2,3.0,3.3,2.9
+Hinduja Global Solutions,IT Services & Consulting , 10k-50k Employees , 24  ,6600.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",3.9,4.0,3.8,3.8,3.8,3.7,3.4,3.3
+Ericsson,Telecom , 10k-50k Employees , 148  ,6600.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,4.2,4.1,4.2,4.2,4.0,3.9,3.7,3.4
+Shriram Finance,NBFC , 50k-1 Lakh Employees , 45  ,6500.0,"Job Security, Work Life Balance, Skill Development / Learning",,4.1,4.1,3.9,3.9,3.9,3.8,3.6,3.4
+Bandhan Bank,Banking , 50k-1 Lakh Employees , 23  ,6400.0,Job Security,"Promotions / Appraisal, Work Satisfaction",3.8,3.8,3.6,3.5,3.5,3.4,3.5,3.3
+EXL Service,Analytics & KPO , 10k-50k Employees , 25  ,6300.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.8,4.0,3.7,3.6,3.5,3.5,3.2,3.0
+Cipla,Pharma , 10k-50k Employees , 89  ,6200.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",,4.1,3.7,3.9,3.9,4.0,3.8,4.0,3.6
+NTT DATA,IT Services & Consulting , 10k-50k Employees , 11  ,6200.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.0,4.0,3.9,3.8,3.7,3.7,3.5,3.3
+Dr. Reddy's,Pharma , 10k-50k Employees , 40  ,6200.0,"Skill Development / Learning, Company Culture, Work Life Balance",,4.1,3.7,3.9,3.9,4.0,3.7,3.9,3.4
+UltraTech Cement,Building Material , 10k-50k Employees , 41  ,6200.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.2,3.8,4.0,4.1,3.8,3.9,3.5
+Sutherland Global Services,IT Services & Consulting , 10k-50k Employees , 38  ,6200.0,,"Promotions / Appraisal, Salary & Benefits",3.7,3.6,3.5,3.7,3.5,3.5,3.4,3.1
+Quess,BPO , 1k-5k Employees , 17  ,5900.0,Work Life Balance,Promotions / Appraisal,4.0,3.5,3.8,3.7,3.7,3.6,3.6,3.2
+Bajaj Finance,NBFC , 10k-50k Employees , 37  ,5900.0,"Salary & Benefits, Skill Development / Learning, Job Security",,4.1,3.9,3.5,3.6,4.0,3.7,4.1,3.8
+Tata Steel,Iron & Steel , 1 Lakh+ Employees , 117  ,5900.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.2,4.2,4.0,4.0,4.1,3.8,3.7,3.4
+ICICI Prudential Life Insurance,Insurance , 10k-50k Employees , 24  ,5700.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.1,4.2,3.8,3.9,4.0,3.7,4.0,3.7
+Jana Small Finance Bank,Banking , 10k-50k Employees , 18  ,5600.0,,,3.8,3.5,3.5,3.5,3.6,3.5,3.7,3.4
+Amazon Development Centre India,Internet , 10k-50k Employees , 18  ,5600.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,4.2,3.8,4.0,4.2,3.7,3.7,4.0,3.4
+Wells Fargo,Financial Services , 10k-50k Employees , 172  ,5600.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,4.0,4.0,4.0,3.9,3.5,3.5,3.8,3.4
+Lupin,Pharma , 1k-5k Employees , 56  ,5600.0,"Skill Development / Learning, Company Culture, Work Life Balance",,4.2,3.7,3.9,4.0,4.0,3.8,3.8,3.5
+Zydus Lifesciences,Pharma , 10k-50k Employees , 72  ,5500.0,"Skill Development / Learning, Salary & Benefits, Job Security",,4.2,4.0,3.9,3.9,4.0,3.9,4.0,3.8
+L&T Construction,Engineering & Construction , 5k-10k Employees , 80  ,5500.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.0,4.1,3.4,3.7,4.0,3.7,3.8,3.5
+Delhivery,Logistics , 10k-50k Employees , 13  ,5500.0,Skill Development / Learning,Promotions / Appraisal,3.9,3.6,3.6,3.6,3.8,3.6,3.6,3.3
+JPMorgan Chase & Co.,Financial Services , 50k-1 Lakh Employees , 56  ,5400.0,"Job Security, Company Culture, Skill Development / Learning",,4.1,4.2,3.8,4.0,3.9,3.7,3.9,3.5
+L&T Infotech,IT Services & Consulting , 10k-50k Employees , 28  ,5400.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.8,3.8,3.7,3.6,3.6,3.4,3.3,3.0
+HCL Group,IT Services & Consulting , 1 Lakh+ Employees , 48  ,5200.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.7,4.0,3.7,3.6,3.5,3.4,3.1,3.0
+FIS,FinTech , 10k-50k Employees , 56  ,5100.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,3.9,3.8,4.0,3.8,3.6,3.6,3.6,3.2
+Hexaware Technologies,IT Services & Consulting , 10k-50k Employees , 34  ,5100.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.5,3.5,3.5,3.6,3.3,3.2,3.0
+ITC,FMCG , 10k-50k Employees , 114  ,5100.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,4.1,3.5,3.6,3.8,3.6,3.5,3.2
+Indian Army,Defence & Aerospace , 1 Lakh+ Employees , 129  ,5100.0,"Job Security, Skill Development / Learning, Company Culture",,4.7,4.7,4.5,4.6,4.6,4.6,4.6,4.4
+Sun Pharmaceutical Industries,Pharma , 10k-50k Employees , 41  ,5100.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.1,4.0,3.8,3.8,3.9,3.7,3.9,3.6
+JSW Steel,Iron & Steel , 10k-50k Employees , 42  ,5000.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,4.1,3.6,3.6,3.8,3.6,3.5,3.2
+Hindustan Unilever,FMCG , 10k-50k Employees , 152  ,5000.0,"Skill Development / Learning, Job Security, Company Culture",,4.3,4.1,3.9,4.0,4.2,3.9,3.9,3.4
+KPMG India,Management Consulting , 10k-50k Employees , 37  ,5000.0,,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",3.6,3.7,3.2,3.4,3.6,3.2,3.3,3.2
+IIFL Finance,NBFC , 10k-50k Employees , 29  ,4900.0,"Work Life Balance, Skill Development / Learning, Salary & Benefits",,4.0,3.7,3.8,3.8,3.8,3.7,3.8,3.6
+Udaan,1k-5k Employees , Indian Unicorn , 8  ,4900.0,"Salary & Benefits, Skill Development / Learning",Job Security,4.0,3.0,3.7,3.7,3.8,3.7,3.9,3.4
+Oracle,Emerging Technologies , 50k-1 Lakh Employees , 47  ,4800.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",3.8,4.0,4.1,3.7,3.5,3.4,3.2,2.7
+Max Life Insurance,Insurance , 10k-50k Employees , 24  ,4700.0,"Skill Development / Learning, Company Culture, Job Security",,4.1,4.0,3.9,4.1,4.1,3.8,3.9,3.7
+Ujjivan Small Finance Bank,Banking , 10k-50k Employees , 7  ,4700.0,"Company Culture, Job Security, Work Life Balance",,4.1,3.9,3.9,4.0,3.9,3.8,3.8,3.5
+Tata Projects,Engineering & Construction , 5k-10k Employees , 45  ,4500.0,"Job Security, Company Culture, Salary & Benefits",,4.3,4.2,3.9,4.1,4.0,3.9,4.0,3.6
+Muthoot Finance,NBFC , 10k-50k Employees , 85  ,4500.0,,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",3.6,3.6,3.4,3.4,3.5,3.3,3.4,3.1
+eClerx,IT Services & Consulting , 10k-50k Employees , 24  ,4500.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.6,3.3,3.3,3.3,3.1,2.8,2.7
+Megha Engineering & Infrastructures,Engineering & Construction , 5k-10k Employees , 35  ,4400.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,4.0,3.7,3.7,3.8,3.7,3.7,3.2
+Ekart Logistics,Logistics , 1k-5k Employees , 15  ,4400.0,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal,4.0,3.7,3.7,3.8,3.9,3.7,3.8,3.3
+Aurobindo Pharma,Pharma , 10k-50k Employees , 38  ,4400.0,"Job Security, Salary & Benefits, Work Life Balance",,4.0,4.2,3.8,3.5,3.6,3.6,3.8,3.5
+Omega Healthcare,Healthcare , 10k-50k Employees , 21  ,4400.0,,"Promotions / Appraisal, Salary & Benefits",3.8,3.7,3.5,3.6,3.7,3.5,3.4,3.1
+Shapoorji Pallonji Group,Engineering & Construction , 5k-10k Employees , 159  ,4400.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.2,3.9,4.0,4.0,3.9,3.8,3.4
+JLL,Real Estate , 10k-50k Employees , 25  ,4300.0,"Skill Development / Learning, Job Security, Company Culture",,4.2,4.0,4.0,4.0,4.1,3.8,3.9,3.5
+Siemens,Industrial Automation , 5k-10k Employees , 177  ,4300.0,"Job Security, Company Culture, Work Life Balance",,4.2,4.2,4.1,4.1,4.0,3.8,3.6,3.4
+Ashok Leyland,Automobile , 5k-10k Employees , 76  ,4200.0,"Skill Development / Learning, Work Satisfaction, Company Culture",,4.1,3.7,3.8,3.8,4.0,3.8,3.7,3.4
+Bajaj Allianz Life Insurance,Insurance , 10k-50k Employees , 23  ,4200.0,"Salary & Benefits, Work Life Balance, Job Security",,4.1,3.9,3.9,3.8,3.8,3.7,3.9,3.6
+First Source,BPO , 10k-50k Employees , 23  ,4200.0,,"Promotions / Appraisal, Salary & Benefits",3.8,3.6,3.6,3.6,3.6,3.5,3.3,3.2
+Apollo Hospitals,Healthcare , 10k-50k Employees , 41  ,4200.0,"Job Security, Skill Development / Learning, Company Culture",,4.1,4.1,3.9,3.9,4.0,3.8,3.8,3.6
+Indiamart Intermesh,Internet , 5k-10k Employees , 28  ,4200.0,,"Promotions / Appraisal, Work Satisfaction, Company Culture",3.6,3.5,3.3,3.3,3.5,3.2,3.5,3.1
+JustDial,Internet , 10k-50k Employees , 28  ,4200.0,,"Promotions / Appraisal, Work Satisfaction, Job Security",3.6,3.2,3.3,3.2,3.4,3.1,3.4,3.0
+Coforge,IT Services & Consulting , 10k-50k Employees , 20  ,4100.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.3,3.4,3.2,3.2,3.1,3.1,2.7
+Home Credit Finance,Financial Services , 10k-50k Employees , 12  ,4100.0,"Company Culture, Skill Development / Learning, Work Life Balance",,4.1,3.5,3.9,4.0,3.9,3.8,3.8,3.4
+Virtusa Consulting Services,IT Services & Consulting , 10k-50k Employees , 28  ,4100.0,,Promotions / Appraisal,3.8,3.5,3.7,3.6,3.6,3.5,3.5,3.3
+Standard Chartered,Banking , 10k-50k Employees , 171  ,4100.0,Job Security,Promotions / Appraisal,3.9,3.9,3.7,3.7,3.6,3.5,3.6,3.2
+Vivo,Consumer Electronics & Appliances , 5k-10k Employees , 15  ,4100.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,3.6,3.8,3.9,4.0,3.7,3.7,3.3
+Hero MotoCorp,Automobile , 5k-10k Employees , 40  ,4100.0,"Work Life Balance, Company Culture, Job Security",,4.2,3.9,4.0,4.0,3.9,3.9,3.8,3.5
+BigBasket,Internet , 10k-50k Employees , 13  ,4100.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,3.9,3.7,3.7,3.8,3.6,3.6,3.3
+DMart,Retail , 10k-50k Employees , 22  ,4000.0,"Job Security, Company Culture",Promotions / Appraisal,4.0,4.2,3.7,3.9,3.7,3.6,3.6,3.3
+ICICI Lombard General Insurance Company,Insurance , 10k-50k Employees , 23  ,4000.0,,"Promotions / Appraisal, Work Satisfaction",3.8,3.7,3.5,3.6,3.6,3.4,3.5,3.0
+L&T Technology Services,IT Services & Consulting , 10k-50k Employees , 12  ,4000.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.4,3.4,3.3,3.2,3.1,2.8,2.6
+Cyient,IT Services & Consulting , 10k-50k Employees , 33  ,4000.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.7,3.8,3.7,3.6,3.5,3.4,3.2,3.0
+Mahindra Finance,NBFC , 10k-50k Employees , 33  ,4000.0,"Company Culture, Job Security, Work Life Balance",,4.2,4.1,4.0,4.1,4.0,3.9,3.9,3.6
+GlobalLogic,IT Services & Consulting , 10k-50k Employees , 24  ,4000.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",3.7,3.7,3.8,3.7,3.3,3.4,3.1,2.8
+CGI Group,IT Services & Consulting , 10k-50k Employees , 48  ,4000.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,4.2,4.1,4.1,3.8,3.7,3.5,3.3
+Equitas Small Finance Bank,Banking , 10k-50k Employees , 17  ,3900.0,"Job Security, Company Culture, Work Life Balance",,4.3,4.2,4.1,4.1,4.0,4.0,4.0,3.8
+OPPO,Consumer Electronics & Appliances , 10k-50k Employees , 20  ,3900.0,Skill Development / Learning,Promotions / Appraisal,4.0,3.4,3.7,3.6,3.8,3.6,3.6,3.3
+Bosch Global Software Technologies,Software Product , 10k-50k Employees , 27  ,3800.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,4.4,4.2,4.1,3.8,3.7,3.4,3.2
+UST,IT Services & Consulting , 10k-50k Employees , 23  ,3800.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",3.8,3.5,3.9,3.7,3.6,3.5,3.4,3.1
+Nagarro,IT Services & Consulting , 10k-50k Employees , 28  ,3800.0,"Work Life Balance, Company Culture, Salary & Benefits",,4.1,3.8,4.1,4.1,3.9,3.8,3.9,3.7
+TVS Motor,Automobile , 5k-10k Employees , 45  ,3800.0,"Skill Development / Learning, Salary & Benefits, Job Security",,4.0,3.8,3.6,3.8,4.0,3.7,3.9,3.5
+Cholamandalam Investment & Finance,NBFC , 10k-50k Employees , 46  ,3700.0,"Salary & Benefits, Job Security, Skill Development / Learning",,4.0,3.8,3.6,3.7,3.8,3.6,3.9,3.6
+Manappuram Finance,NBFC , 10k-50k Employees , 75  ,3700.0,"Promotions / Appraisal, Skill Development / Learning",,4.0,3.7,3.7,3.7,3.8,3.7,3.7,3.8
+IQVIA,Clinical Research , 10k-50k Employees , 42  ,3700.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.0,4.0,3.9,3.9,3.8,3.7,3.6,3.3
+SBI Cards & Payment Services,Financial Services , 1k-5k Employees , 26  ,3700.0,,"Promotions / Appraisal, Work Satisfaction, Company Culture",3.7,3.5,3.4,3.4,3.6,3.3,3.4,3.0
+Atos Syntel,IT Services & Consulting , 5k-10k Employees , 44  ,3700.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.4,3.6,3.5,3.4,3.3,3.0,2.8
+SMFG India Credit,NBFC , 10k-50k Employees , 17  ,3700.0,"Salary & Benefits, Job Security, Company Culture",,4.1,3.9,3.8,3.8,3.8,3.7,4.1,3.7
+BNY,Investment Banking / Venture Capital / Private Equity , 10k-50k Employees , 240  ,3600.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,4.0,3.7,3.9,4.0,3.8,3.7,3.9,3.4
+Swiggy,Internet , 5k-10k Employees , 10  ,3600.0,,"Job Security, Promotions / Appraisal",3.8,3.1,3.5,3.6,3.6,3.5,3.7,3.2
+Schneider Electric,Industrial Automation , 10k-50k Employees , 25  ,3600.0,"Company Culture, Work Life Balance, Job Security",,4.2,4.0,4.0,4.1,4.0,3.8,3.7,3.4
+Optum,Healthcare , 10k-50k Employees , 47  ,3600.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.0,4.2,4.0,4.0,3.7,3.7,3.5,3.3
+Amdocs,Software Product , 10k-50k Employees , 42  ,3600.0,"Company Culture, Job Security",Promotions / Appraisal,3.9,3.8,3.7,4.0,3.6,3.5,3.7,3.3
+Hewlett Packard Enterprise,IT Services & Consulting , 10k-50k Employees , 9  ,3600.0,"Company Culture, Work Life Balance, Job Security",,4.2,4.1,4.3,4.3,3.9,3.9,3.7,3.4
+Bosch,Auto Components , 5k-10k Employees , 138  ,3600.0,"Company Culture, Work Life Balance, Job Security",,4.2,4.1,4.1,4.2,4.1,3.9,3.8,3.5
+State Bank of India,Banking , 1 Lakh+ Employees , 218  ,3500.0,"Job Security, Salary & Benefits",Work Life Balance,3.9,4.1,3.4,3.5,3.7,3.4,3.8,3.5
+Hyundai Motor India Limited,Automobile , 10k-50k Employees , 57  ,3500.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.4,4.2,4.1,4.1,4.2,4.2,4.2,3.8
+CBRE,Real Estate , 10k-50k Employees , 118  ,3500.0,"Skill Development / Learning, Job Security, Company Culture",,4.2,4.1,4.0,4.1,4.2,3.9,3.9,3.7
+Dell,Consumer Electronics & Appliances , 10k-50k Employees , 40  ,3500.0,"Work Life Balance, Company Culture, Skill Development / Learning",,4.1,3.8,4.1,4.0,3.9,3.8,3.8,3.5
+SBI Life Insurance Company,Insurance , 10k-50k Employees , 23  ,3400.0,Job Security,Promotions / Appraisal,3.9,3.9,3.5,3.6,3.7,3.5,3.6,3.4
+JBM Group,Auto Components , 1k-5k Employees , 41  ,3400.0,"Job Security, Skill Development / Learning",,4.0,4.0,3.7,3.7,3.9,3.7,3.6,3.4
+Oyo Rooms,Hospitality , 1k-5k Employees , 12  ,3400.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.4,2.6,3.1,3.1,3.2,3.0,3.5,3.0
+Ecom Express,Logistics , 10k-50k Employees , 12  ,3400.0,Skill Development / Learning,Promotions / Appraisal,4.0,3.6,3.7,3.7,3.8,3.7,3.7,3.4
+Persistent Systems,IT Services & Consulting , 10k-50k Employees , 34  ,3400.0,,"Promotions / Appraisal, Job Security, Work Satisfaction",3.6,3.3,3.6,3.6,3.6,3.3,3.3,3.1
+BT Group,Telecom , 10k-50k Employees , 178  ,3400.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,4.0,4.2,4.2,4.0,3.7,3.8,3.6,3.4
+Bajaj Auto,Automobile , 5k-10k Employees , 79  ,3300.0,,Promotions / Appraisal,3.9,3.6,3.7,3.7,3.7,3.5,3.6,3.1
+Reliance Communications,Telecom , 201-500 Employees , 22  ,3300.0,"Skill Development / Learning, Work Life Balance",Promotions / Appraisal,4.0,3.7,3.8,3.7,3.9,3.6,3.7,3.3
+Marpu Foundation,Non-Profit , 51-200 Employees , 8  ,3300.0,"Company Culture, Work Satisfaction, Skill Development / Learning",,4.8,4.7,4.8,4.8,4.8,4.8,4.5,4.6
+KEC International,Engineering & Construction , 5k-10k Employees , 79  ,3300.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.1,4.2,3.8,3.8,3.8,3.7,3.8,3.4
+Nagarjuna Construction Company,Engineering & Construction , 5k-10k Employees , 26  ,3300.0,"Job Security, Salary & Benefits, Company Culture",,4.2,4.1,3.8,3.9,3.9,3.8,3.9,3.6
+Piramal Capital Housing Finance,NBFC , 1k-5k Employees , 4  ,3200.0,"Company Culture, Skill Development / Learning, Work Life Balance",,4.2,4.0,4.1,4.1,4.1,4.0,4.1,3.8
+Muthoot Fincorp,NBFC , 10k-50k Employees , 137  ,3200.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",4.0,3.9,3.9,3.8,3.9,3.8,3.4,3.3
+Aditya Birla Fashion and Retail,Fashion & Textile , 10k-50k Employees , 36  ,3200.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.1,3.9,4.0,4.1,3.8,3.8,3.5
+CARS24,Internet , 5k-10k Employees , 9  ,3200.0,,"Job Security, Promotions / Appraisal, Work Life Balance",3.6,3.1,3.4,3.4,3.5,3.4,3.6,3.2
+Varun Beverages,Beverage , 5k-10k Employees , 29  ,3100.0,"Job Security, Salary & Benefits",,4.1,3.9,3.7,3.7,3.7,3.7,3.8,3.4
+ITC Infotech,IT Services & Consulting , 10k-50k Employees , 24  ,3100.0,"Work Life Balance, Job Security",Promotions / Appraisal,3.8,3.9,3.9,3.7,3.6,3.7,3.6,3.3
+L&T Finance,NBFC , 10k-50k Employees , 30  ,3100.0,"Salary & Benefits, Skill Development / Learning",,4.0,3.7,3.6,3.7,3.8,3.6,4.0,3.5
+Randstad,Recruitment , 5k-10k Employees , 32  ,3100.0,,"Promotions / Appraisal, Job Security",3.9,3.3,3.7,3.7,3.5,3.5,3.6,3.2
+John Deere,Industrial Machinery , 5k-10k Employees , 23  ,3100.0,"Company Culture, Skill Development / Learning, Work Life Balance",,4.2,3.9,4.0,4.2,4.1,3.8,3.9,3.4
+Royal Enfield,Automobile , 5k-10k Employees , 123  ,3100.0,"Skill Development / Learning, Work Satisfaction, Company Culture",,4.2,3.8,3.9,4.0,4.0,4.0,3.8,3.5
+Tata Communications,Telecom , 5k-10k Employees , 38  ,3100.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,4.1,3.9,3.9,3.9,3.8,3.6,3.3
+HDFC Ergo General Insurance,Insurance , 10k-50k Employees , 22  ,3000.0,"Job Security, Work Life Balance, Company Culture",,4.0,3.9,3.8,3.8,3.8,3.6,3.7,3.4
+LG Electronics,Consumer Electronics & Appliances , 1k-5k Employees , 66  ,3000.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.1,4.0,3.6,3.7,3.9,3.6,3.8,3.5
+Intas Pharmaceuticals,Pharma , 10k-50k Employees , 47  ,3000.0,"Job Security, Salary & Benefits, Work Life Balance",,4.1,4.2,3.9,3.8,3.8,3.8,4.0,3.6
+Deutsche Bank,Banking , 10k-50k Employees , 154  ,3000.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.0,4.0,4.0,3.9,3.6,3.6,3.7,3.2
+Samvardhana Motherson Group,Auto Components , 1k-5k Employees , 38  ,3000.0,Job Security,,3.8,4.1,3.4,3.5,3.6,3.5,3.5,3.4
+Future Group,Retail , 10k-50k Employees , 11  ,3000.0,"Skill Development / Learning, Company Culture, Work Life Balance",,4.2,3.9,4.0,4.0,4.1,4.0,3.9,3.7
+Kogta Financial India Limited,NBFC , 1k-5k Employees , 28  ,3000.0,"Company Culture, Work Life Balance, Work Satisfaction",,4.8,4.6,4.7,4.7,4.6,4.6,4.5,4.5
+EY Global Delivery Services ( EY GDS),Accounting & Auditing , 50k-1 Lakh Employees , 22  ,3000.0,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",3.6,3.9,3.3,3.5,3.7,3.3,3.5,3.2
+Thermax Limited,Industrial Machinery , 1k-5k Employees , 58  ,3000.0,"Job Security, Company Culture, Skill Development / Learning",,4.2,4.2,3.9,4.1,4.0,3.9,3.7,3.5
+Team Lease,Recruitment , 1k-5k Employees , 8  ,2900.0,,Promotions / Appraisal,4.0,3.5,3.7,3.7,3.7,3.6,3.7,3.2
+Godrej & Boyce Manufacturing,Consumer Electronics & Appliances , 10k-50k Employees , 127  ,2900.0,Job Security,Promotions / Appraisal,3.9,4.1,3.6,3.7,3.7,3.5,3.5,3.1
+Macleods Pharmaceuticals,Pharma , 10k-50k Employees , 38  ,2900.0,Job Security,"Promotions / Appraisal, Company Culture",3.8,3.9,3.5,3.3,3.5,3.5,3.4,3.3
+Havells,Electrical Equipment , 5k-10k Employees , 41  ,2900.0,"Work Life Balance, Salary & Benefits",,4.0,3.7,3.8,3.7,3.7,3.7,3.8,3.5
+R1 RCM,Healthcare , 5k-10k Employees , 17  ,2900.0,"Job Security, Company Culture, Work Life Balance",,3.9,3.9,3.8,3.9,3.7,3.7,3.7,3.5
+Tata Capital,NBFC , 5k-10k Employees , 17  ,2900.0,"Job Security, Company Culture, Skill Development / Learning",,4.1,4.1,3.9,4.0,4.0,3.8,3.9,3.6
+Access Healthcare,IT Services & Consulting , 5k-10k Employees , 13  ,2900.0,"Job Security, Company Culture",Promotions / Appraisal,3.9,4.0,3.7,3.8,3.7,3.7,3.7,3.4
+Hetero Drugs,Pharma , 1k-5k Employees , 31  ,2900.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.9,3.9,3.6,3.5,3.6,3.5,3.3,3.2
+Cummins,Industrial Machinery , 1k-5k Employees , 105  ,2900.0,"Company Culture, Work Life Balance, Skill Development / Learning",,4.3,3.8,4.2,4.4,4.1,4.0,4.0,3.6
+Viatris,Pharma , 10k-50k Employees , 4  ,2900.0,"Salary & Benefits, Job Security, Work Life Balance",,4.2,4.2,4.0,3.9,3.9,3.8,4.3,3.8
+Whitehat jr,EdTech , 5k-10k Employees , 6  ,2800.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.5,2.6,3.2,3.2,3.4,3.2,3.6,3.1
+Publicis Sapient,IT Services & Consulting , 10k-50k Employees , 34  ,2800.0,,"Promotions / Appraisal, Job Security, Work Satisfaction",3.6,3.2,3.4,3.5,3.7,3.3,3.5,2.9
+Square Yards,Real Estate , 1k-5k Employees , 10  ,2800.0,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",,4.2,4.0,4.1,4.1,4.2,4.1,4.2,4.2
+Atos,IT Services & Consulting , 10k-50k Employees , 27  ,2800.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",3.8,3.7,3.9,3.7,3.6,3.6,3.3,3.1
+American Express,Financial Services , 10k-50k Employees , 174  ,2800.0,"Company Culture, Work Life Balance, Job Security",,4.2,4.1,4.2,4.2,3.9,3.9,4.1,3.6
+VE Commercial Vehicles,Automobile , 1k-5k Employees , 16  ,2800.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,4.1,4.2,3.7,3.8,3.9,3.7,3.5,3.3
+Aakash Educational Services,EdTech , 5k-10k Employees , 36  ,2800.0,,"Work Life Balance, Promotions / Appraisal, Work Satisfaction",3.6,3.3,3.1,3.3,3.5,3.2,3.6,3.1
+Tata AIA Life Insurance,Insurance , 10k-50k Employees , 23  ,2800.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.0,4.0,3.7,3.8,3.9,3.7,4.0,3.6
+Abbott,Pharma , 10k-50k Employees , 136  ,2800.0,"Salary & Benefits, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.2,3.8,3.9,4.0,4.0,3.8,4.0,3.3
+Indian Oil Corporation,Oil & Gas , 10k-50k Employees , 65  ,2800.0,"Company Culture, Work Life Balance, Job Security",,4.4,4.2,4.2,4.2,4.2,4.2,4.1,3.8
+Automatic Data Processing (ADP),Software Product , 1k-5k Employees , 75  ,2800.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,4.3,4.0,4.0,3.8,3.8,3.7,3.4
+Subros,Auto Components , 1k-5k Employees , 39  ,2800.0,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal",4.0,4.2,3.7,3.9,4.0,3.6,3.2,3.3
+Bharat Electronics,Electronics Manufacturing , 5k-10k Employees , 70  ,2800.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.2,3.8,4.0,4.0,3.9,3.9,3.7,3.3
+Pidilite Industries,Chemicals , 5k-10k Employees , 65  ,2800.0,"Job Security, Company Culture, Work Life Balance",,4.3,4.4,4.1,4.2,4.1,4.0,3.8,3.5
+Sodexo,Facility Management Services , 10k-50k Employees , 16  ,2800.0,"Company Culture, Work Life Balance, Skill Development / Learning",,4.1,3.8,4.0,4.0,4.0,3.9,3.8,3.5
+Alembic Pharmaceuticals,Pharma , 10k-50k Employees , 117  ,2700.0,"Salary & Benefits, Work Life Balance",,4.0,3.5,3.8,3.7,3.7,3.7,4.0,3.7
+Utkarsh Small Finance Bank,Banking , 10k-50k Employees , 15  ,2700.0,Job Security,,3.9,3.8,3.6,3.6,3.7,3.6,3.6,3.5
+Barclays,Banking , 10k-50k Employees , 334  ,2700.0,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,4.0,4.0,3.9,3.9,3.6,3.6,3.9,3.4
+Berger Paints,Chemicals , 1k-5k Employees , 101  ,2700.0,,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",3.8,3.7,3.3,3.4,3.6,3.3,3.4,3.1
+DCB Bank,Banking , 5k-10k Employees , 94  ,2700.0,Work Life Balance,,3.8,3.7,3.8,3.7,3.7,3.6,3.7,3.4
+Ford Motor,Automobile , 5k-10k Employees , 121  ,2700.0,"Company Culture, Work Life Balance, Salary & Benefits",,4.4,4.0,4.4,4.5,4.2,4.2,4.2,3.7
+Carelon Global Solutions,IT Services & Consulting , 10k-50k Employees , 121  ,2700.0,"Job Security, Salary & Benefits, Company Culture",,4.0,4.1,3.8,4.0,3.7,3.6,4.0,3.4
+Hindalco Industries,Metals & Mining , 10k-50k Employees , 66  ,2700.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.4,4.0,4.0,4.1,3.9,3.7,3.5
+Wipro Infotech,IT Services & Consulting , 1 Lakh+ Employees (Global) , 79  ,2700.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,4.0,4.0,3.9,3.9,3.9,3.7,3.5,3.4
+Bank of America,Banking , 10k-50k Employees , 26  ,2700.0,"Job Security, Work Life Balance, Company Culture",,4.4,4.7,4.4,4.3,4.0,4.0,4.0,3.6
+PolicyBazaar,Internet , 10k-50k Employees , 16  ,2600.0,Salary & Benefits,"Work Life Balance, Company Culture, Work Satisfaction",3.4,3.1,2.9,3.0,3.3,3.0,3.8,3.0
+Alkem Laboratories,Pharma , 10k-50k Employees , 51  ,2600.0,,,3.9,3.4,3.6,3.5,3.7,3.5,3.7,3.5
+Vishal Mega Mart,Retail , 10k-50k Employees , 16  ,2600.0,Salary & Benefits,,3.8,3.4,3.4,3.4,3.6,3.4,3.8,3.5
+Indian Air Force,Defence & Aerospace , 1 Lakh+ Employees , 92  ,2600.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.6,4.7,4.2,4.2,4.4,4.2,4.4,3.8
+Maersk,Logistics , 10k-50k Employees , 120  ,2600.0,"Company Culture, Work Life Balance, Job Security",,4.3,4.1,4.2,4.2,4.0,4.0,4.0,3.5
+Johnson Controls,Industrial Automation , 5k-10k Employees , 139  ,2600.0,,"Promotions / Appraisal, Job Security, Work Satisfaction",3.6,3.3,3.5,3.4,3.4,3.3,3.5,3.0
+Jindal Steel and Power,Iron & Steel , 5k-10k Employees , 45  ,2600.0,"Skill Development / Learning, Job Security",,4.0,3.9,3.7,3.7,3.9,3.7,3.6,3.4
+Ipca Laboratories,Pharma , 10k-50k Employees , 75  ,2600.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",4.0,4.1,3.9,3.8,3.8,3.7,3.3,3.1
+24/7 Customer,BPO , 5k-10k Employees , 24  ,2600.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.3,3.4,3.6,3.5,3.3,3.1,3.0
+Cogent E Services,BPO , 10k-50k Employees , 20  ,2600.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.3,3.2,3.1,3.1,3.3,3.1,2.9,2.9
+Escorts Kubota Limited,Automobile , 1k-5k Employees , 80  ,2600.0,"Skill Development / Learning, Work Life Balance, Company Culture",,4.1,3.8,3.9,3.9,3.9,3.8,3.6,3.4
+Aarti Industries,Agro Chemicals , 5k-10k Employees , 49  ,2600.0,"Job Security, Work Life Balance, Skill Development / Learning",,4.2,4.4,4.1,4.0,4.1,3.9,3.6,3.6
+Glenmark Pharmaceuticals,Pharma , 10k-50k Employees , 47  ,2600.0,"Skill Development / Learning, Job Security, Salary & Benefits",Promotions / Appraisal,4.0,3.8,3.6,3.7,3.8,3.6,3.8,3.3
+Lenskart,Internet , 5k-10k Employees , 14  ,2600.0,,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",3.2,3.0,3.0,3.0,3.3,2.9,3.1,2.8
+Reliance Digital,Retail , 5k-10k Employees , 17  ,2600.0,"Skill Development / Learning, Job Security, Company Culture",,4.2,4.3,4.0,4.1,4.3,4.0,3.8,3.6
+RBL Bank,Banking , 10k-50k Employees , 81  ,2600.0,,"Promotions / Appraisal, Work Satisfaction",3.7,3.6,3.6,3.4,3.4,3.4,3.4,3.2
+MRF Tyres,Auto Components , 10k-50k Employees , 78  ,2500.0,Job Security,"Company Culture, Work Satisfaction, Work Life Balance",3.8,4.1,3.3,3.1,3.5,3.2,3.7,3.5
+Hindustan Coca Cola Beverages,Beverage , 5k-10k Employees , 27  ,2500.0,"Skill Development / Learning, Salary & Benefits, Company Culture",,4.2,4.0,3.8,4.0,4.0,3.9,4.0,3.5
+UnitedHealth,Healthcare , 10k-50k Employees , 47  ,2500.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,4.3,4.1,4.0,3.8,3.8,3.6,3.4
+Paras Hospital,Healthcare , 1k-5k Employees , 18  ,2500.0,"Skill Development / Learning, Work Life Balance, Company Culture",,4.6,4.4,4.5,4.5,4.5,4.4,4.4,4.3
+Honda Motorcycle & Scooter,Automobile , 10k-50k Employees , 23  ,2500.0,"Job Security, Work Life Balance, Company Culture",,4.1,4.2,4.0,4.0,3.9,3.9,3.9,3.5
+Synechron,IT Services & Consulting , 10k-50k Employees , 23  ,2500.0,Salary & Benefits,"Job Security, Promotions / Appraisal",3.6,3.0,3.6,3.6,3.7,3.4,3.8,3.2
+Jubilant Foods Works,Hospitality , 10k-50k Employees , 29  ,2500.0,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance",3.8,3.6,3.4,3.5,3.8,3.4,3.7,3.4
+DTDC Express,Logistics , 1k-5k Employees , 34  ,2500.0,,"Promotions / Appraisal, Salary & Benefits",3.8,3.7,3.6,3.4,3.6,3.5,3.4,3.1
+Birlasoft,IT Services & Consulting , 10k-50k Employees , 29  ,2500.0,,"Promotions / Appraisal, Salary & Benefits",3.7,3.6,3.7,3.5,3.5,3.4,3.3,3.0
+Reliance Nippon Life Insurance,Insurance , 10k-50k Employees , 24  ,2500.0,,"Promotions / Appraisal, Job Security",3.8,3.4,3.6,3.5,3.5,3.4,3.6,3.4
+Kotak Mahindara Life Insurance,Insurance , 10k-50k Employees , 23  ,2500.0,Job Security,,3.8,3.9,3.6,3.7,3.7,3.5,3.5,3.4
+Ceat Tyres,Auto Components , 5k-10k Employees , 66  ,2500.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.1,4.1,3.7,4.0,4.0,3.6,3.4,3.3
+Sahrudaya Healthcare (Medicover Hospitals),Healthcare , 5k-10k Employees , 13  ,2500.0,"Skill Development / Learning, Company Culture, Job Security",,4.6,4.5,4.5,4.5,4.5,4.4,4.2,4.2
+ABB Group,Electrical Equipment , 1k-5k Employees , 36  ,2500.0,"Job Security, Work Life Balance, Company Culture",,4.1,4.2,4.0,4.0,3.9,3.8,3.6,3.4
+PNB MetLife,Insurance , 5k-10k Employees , 23  ,2500.0,,"Job Security, Work Satisfaction, Promotions / Appraisal",3.5,3.1,3.3,3.1,3.3,3.1,3.4,3.1
+JK Cement,Building Material , 1k-5k Employees , 49  ,2500.0,"Salary & Benefits, Job Security, Company Culture",,4.2,3.9,3.8,3.8,3.8,3.8,4.0,3.6
+GeBBS Healthcare Solutions,BPO , 5k-10k Employees , 19  ,2500.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.7,3.8,3.5,3.5,3.7,3.4,3.3,3.2
+Conduent,BPO , 5k-10k Employees , 7  ,2400.0,,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",3.5,3.7,3.7,3.5,3.2,3.3,2.8,2.6
+NatWest Group,Banking , 10k-50k Employees ,Unknown,2400.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,4.0,4.1,4.3,4.1,3.7,3.7,3.4,3.1
+KPIT Technologies,Software Product , 5k-10k Employees , 34  ,2400.0,,"Promotions / Appraisal, Work Satisfaction, Job Security",3.6,3.2,3.3,3.3,3.5,3.2,3.3,3.0
+CMS IT Services,IT Services & Consulting , 5k-10k Employees , 10  ,2400.0,,"Promotions / Appraisal, Salary & Benefits, Company Culture",3.1,3.0,3.0,2.9,3.0,2.9,2.5,2.4
+InterGlobe Aviation,Aviation , 10k-50k Employees , 19  ,2400.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.6,3.3,3.4,3.6,3.2,3.2,3.1
+HARMAN,Consumer Electronics & Appliances , 5k-10k Employees , 15  ,2400.0,Work Life Balance,Promotions / Appraisal,3.8,3.5,3.8,3.7,3.4,3.4,3.6,3.3
+Dabur,FMCG , 5k-10k Employees , 140  ,2400.0,,Promotions / Appraisal,3.8,3.6,3.6,3.5,3.6,3.5,3.7,3.2
+IGT Solutions,IT Services & Consulting , 5k-10k Employees , 26  ,2400.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.2,3.1,3.1,3.3,3.1,3.0,2.7
+Reliance SMSL,BPO , 1k-5k Employees , 17  ,2400.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",Promotions / Appraisal,4.0,3.8,3.8,3.8,4.0,3.7,3.8,3.3
+RSPL Group,FMCG , 10k-50k Employees , 36  ,2400.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.2,4.1,3.9,3.9,3.9,3.9,3.7,3.5
+IDFC FIRST Bharat,NBFC , 10k-50k Employees , 8  ,2300.0,"Salary & Benefits, Job Security, Company Culture",,4.5,4.4,4.4,4.4,4.4,4.3,4.5,4.3
+ACC,Building Material , 5k-10k Employees , 88  ,2300.0,,Promotions / Appraisal,4.0,3.6,3.5,3.6,3.7,3.6,3.7,3.3
+TVS Credit,NBFC , 10k-50k Employees , 16  ,2300.0,"Job Security, Company Culture, Work Life Balance",,4.4,4.2,4.2,4.2,4.2,4.2,4.2,3.9
+Tata AIG,Insurance , 5k-10k Employees , 24  ,2300.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.1,4.2,3.9,4.1,3.9,3.8,3.7,3.3
+Titan Company,Retail , 5k-10k Employees , 40  ,2300.0,"Company Culture, Job Security, Skill Development / Learning",,4.4,4.3,4.1,4.3,4.1,4.1,3.9,3.6
+UPL,Agriculture , 5k-10k Employees , 55  ,2300.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.2,4.0,3.9,3.9,4.0,3.9,3.9,3.5
+Shoppers Stop,Retail , 5k-10k Employees , 33  ,2300.0,"Job Security, Company Culture, Skill Development / Learning",,4.1,4.1,3.9,4.0,4.0,3.8,3.7,3.5
+Alstom Transportation,Urban Transport , 5k-10k Employees , 96  ,2300.0,Job Security,Promotions / Appraisal,3.8,3.9,3.6,3.5,3.6,3.4,3.6,3.1
+PepsiCo,Food Processing , 1 Lakh+ Employees , 59  ,2300.0,"Company Culture, Work Life Balance, Job Security",,4.1,3.9,4.0,4.0,3.9,3.8,3.9,3.5
+ArcelorMittal Nippon Steel,Iron & Steel , 5k-10k Employees ,Unknown,2300.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.0,4.0,3.9,3.8,3.9,3.7,3.6,3.4
+S&P Global,Analytics & KPO , 10k-50k Employees , 164  ,2300.0,"Company Culture, Work Life Balance, Job Security",,4.2,4.0,4.2,4.3,3.7,3.8,3.9,3.4
+Aditya Birla Sun Life Insurance,Insurance , 10k-50k Employees , 24  ,2300.0,"Job Security, Company Culture, Work Life Balance",,4.1,4.1,4.0,4.0,3.9,3.8,3.8,3.6
+Wipro Consumer Care & Lighting,FMCG , 1k-5k Employees , 79  ,2300.0,Job Security,Promotions / Appraisal,3.9,3.9,3.6,3.7,3.7,3.6,3.5,3.3
+State Street Corporation,Financial Services , 10k-50k Employees , 232  ,2300.0,Job Security,Promotions / Appraisal,3.8,3.9,3.7,3.6,3.5,3.4,3.5,3.1
+Torrent Pharmaceuticals,Pharma , 10k-50k Employees , 53  ,2300.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",3.9,4.2,4.0,3.9,3.6,3.6,3.2,2.9
+Dilip Buildcon,Engineering & Construction , 10k-50k Employees , 37  ,2200.0,"Skill Development / Learning, Work Satisfaction",,4.0,3.6,3.7,3.7,3.8,3.8,3.7,3.5
+Statestreet HCL Services,BPO , 5k-10k Employees , 12  ,2200.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",3.3,3.8,3.0,2.9,3.2,2.9,2.7,2.6
+Zensar Technologies,IT Services & Consulting , 5k-10k Employees , 23  ,2200.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",3.7,3.5,3.8,3.6,3.6,3.5,3.4,3.1
+Grasim Industries,Building Material , 10k-50k Employees , 77  ,2200.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.1,4.1,3.8,3.8,3.9,3.7,3.6,3.4
+Flex,Logistics , 5k-10k Employees , 55  ,2200.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,4.1,3.8,4.0,4.1,3.9,3.8,3.5,3.2
+GATI-KWE,Logistics , 1k-5k Employees , 12  ,2200.0,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal,4.0,3.8,3.8,3.8,3.9,3.7,3.6,3.4
+Afcons Infrastructure,Engineering & Construction , 5k-10k Employees , 65  ,2200.0,"Job Security, Skill Development / Learning, Company Culture",,4.3,4.2,3.9,4.1,4.2,4.0,4.1,3.9
+Tata Technologies,Engineering & Construction , 5k-10k Employees , 35  ,2200.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.7,3.9,3.8,3.6,3.4,3.4,3.2,2.8
+Mankind Pharma,Pharma , 10k-50k Employees , 29  ,2200.0,"Salary & Benefits, Skill Development / Learning",,4.0,3.7,3.7,3.7,3.8,3.6,3.9,3.6
+Walmart,Retail , 5k-10k Employees , 15  ,2200.0,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,3.9,3.9,3.7,3.8,3.7,3.5,3.9,3.3
+Wipro Enterprises Ltd,IT Services & Consulting , 501-1k Employees , 79  ,2200.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,3.9,3.9,3.8,3.8,3.8,3.6,3.4,3.3
+Bajaj Allianz General Insurance,Insurance , 5k-10k Employees ,Unknown,2200.0,"Skill Development / Learning, Salary & Benefits, Company Culture",,4.0,3.8,3.6,3.8,3.9,3.5,3.8,3.5
+Sammaan Capital Limited,NBFC , 5k-10k Employees , 19  ,2200.0,,"Promotions / Appraisal, Job Security",3.8,3.4,3.6,3.6,3.6,3.5,3.6,3.3
+Capita,IT Services & Consulting , 5k-10k Employees , 19  ,2200.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",3.7,3.7,3.8,3.6,3.4,3.4,3.2,3.0
+Kyndryl,IT Services & Consulting , 10k-50k Employees , 2  ,2200.0,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,4.0,3.8,4.1,3.9,4.0,3.8,3.5,3.2
+Croma,Retail , 5k-10k Employees , 18  ,2100.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,4.0,4.0,3.8,3.8,4.0,3.7,3.7,3.3
+UNO Minda,Auto Components , 201-500 Employees , 66  ,2100.0,"Job Security, Skill Development / Learning, Company Culture",,4.1,4.1,3.7,3.8,3.9,3.7,3.8,3.5
+Apollo Tyres,Auto Components , 5k-10k Employees , 52  ,2100.0,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,4.0,3.9,3.7,3.9,3.9,3.7,3.6,3.3
+ElasticRun,Logistics , 1k-5k Employees , 8  ,2100.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.4,2.7,3.2,3.2,3.4,3.2,3.7,3.1
+Nokia,Telecom , 10k-50k Employees , 159  ,2100.0,"Work Life Balance, Company Culture, Job Security",,4.2,3.9,4.2,4.1,3.9,3.9,3.7,3.5
+Societe Generale Global Solution Centre,Financial Services , 10k-50k Employees , 24  ,2100.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,3.9,4.2,4.1,3.8,3.6,3.5,3.5,3.1
+I Process Services,Recruitment , 1k-5k Employees , 19  ,2100.0,,"Promotions / Appraisal, Salary & Benefits",3.9,3.5,3.7,3.7,3.7,3.6,3.3,2.9
+HDFC Sales,Financial Services , 10k-50k Employees , 20  ,2100.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,3.8,3.8,3.9,4.0,3.7,3.5,3.3
+Axis Direct,Financial Services , 1k-5k Employees , 13  ,2100.0,,Promotions / Appraisal,3.9,3.7,3.7,3.7,3.6,3.5,3.6,3.3
+Motilal Oswal Financial Services,Financial Services , 10k-50k Employees , 37  ,2100.0,Skill Development / Learning,Promotions / Appraisal,3.8,3.6,3.5,3.6,3.9,3.4,3.5,3.4
+KocharTech,IT Services & Consulting , 1k-5k Employees , 29  ,2100.0,"Skill Development / Learning, Company Culture, Job Security",,4.0,3.9,3.9,4.0,4.0,3.9,3.8,3.8
+Domino's Pizza,Hospitality , 1k-5k Employees , 64  ,2100.0,"Skill Development / Learning, Salary & Benefits",,4.0,3.7,3.6,3.7,3.9,3.6,3.8,3.6
+Landmark Group,Retail , 1k-5k Employees , 51  ,2100.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.0,3.9,3.8,3.8,3.8,3.6,3.6,3.3
+Nestle,Food Processing , 5k-10k Employees , 65  ,2100.0,"Salary & Benefits, Skill Development / Learning, Job Security",,4.1,3.9,3.6,3.8,4.0,3.7,4.0,3.4
+Bajaj Electricals,Consumer Electronics & Appliances , 1k-5k Employees , 86  ,2100.0,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,3.6,3.8,3.8,3.8,3.7,3.9,3.4
+Max Healthcare,Healthcare , 1k-5k Employees , 23  ,2100.0,"Skill Development / Learning, Job Security, Company Culture",,4.1,4.0,3.8,3.8,4.0,3.8,3.7,3.5
+Fiserv,FinTech , 5k-10k Employees , 40  ,2100.0,,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",3.6,3.6,3.5,3.3,3.3,3.2,3.5,3.0
+Blue Dart Express,Logistics , 10k-50k Employees , 41  ,2100.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,4.1,3.8,3.9,3.8,3.7,3.7,3.3
+AGS Health,Analytics & KPO , 10k-50k Employees , 13  ,2100.0,"Job Security, Company Culture, Skill Development / Learning",,4.0,4.0,3.8,3.9,3.9,3.7,3.6,3.5
+Capgemini Engineering,10k-50k Employees , Gurgaon / Gurugram +24 more,Unknown,2100.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.7,3.6,3.5,3.5,3.3,3.0,2.7
+BlackBuck,Internet , 1k-5k Employees , 9  ,2000.0,,"Job Security, Promotions / Appraisal",3.8,3.3,3.7,3.6,3.6,3.5,3.7,3.3
+Suzlon Group,Power , 5k-10k Employees , 29  ,2000.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,4.1,4.0,3.8,3.8,4.0,3.7,3.5,3.2
+McDonald's,Hospitality , 1k-5k Employees , 69  ,2000.0,"Skill Development / Learning, Company Culture, Job Security",,4.2,3.9,3.8,4.0,4.2,3.9,3.7,3.8
+G4S,Law Enforcement & Security , 1 Lakh+ Employees , 28  ,2000.0,"Work Life Balance, Salary & Benefits, Job Security",Promotions / Appraisal,4.0,3.8,3.8,3.7,3.7,3.7,3.8,3.4
+Huawei Technologies,Telecom , 51-200 Employees , 22  ,2000.0,"Salary & Benefits, Skill Development / Learning",Job Security,4.0,3.4,3.5,3.7,3.9,3.7,4.1,3.7
+Quest Global,IT Services & Consulting , 10k-50k Employees , 27  ,2000.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.7,3.5,3.6,3.6,3.4,3.3,3.1,3.0
+IKS Health,Healthcare , 5k-10k Employees , 17  ,2000.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.6,3.5,3.4,3.5,3.3,3.0,2.8
+Sterlite Technologies,Hardware & Networking , 1k-5k Employees , 36  ,2000.0,,"Promotions / Appraisal, Job Security",3.8,3.3,3.7,3.7,3.6,3.6,3.7,3.2
+Micro Labs,Pharma , 10k-50k Employees , 51  ,2000.0,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",3.7,3.8,3.5,3.3,3.5,3.4,3.1,3.2
+Britannia,FMCG , 1k-5k Employees , 132  ,2000.0,"Job Security, Skill Development / Learning, Company Culture",,4.1,4.0,3.7,3.8,4.0,3.7,3.7,3.5
+Patanjali Ayurved,FMCG , 1k-5k Employees , 18  ,2000.0,"Work Life Balance, Job Security",Promotions / Appraisal,4.1,3.8,3.9,3.7,3.7,3.7,3.7,3.3
+Zomato,Internet , 1k-5k Employees , 16  ,2000.0,,"Promotions / Appraisal, Job Security",3.8,3.3,3.5,3.6,3.5,3.5,3.7,3.2
+Exide Industries,Auto Components , 5k-10k Employees , 77  ,2000.0,,"Promotions / Appraisal, Company Culture, Work Satisfaction",3.6,3.4,3.2,3.1,3.3,3.1,3.3,2.7
+XpressBees,Logistics , 5k-10k Employees , 9  ,2000.0,,"Promotions / Appraisal, Company Culture, Job Security",3.7,3.4,3.5,3.4,3.4,3.4,3.4,3.1
+Simplex Infrastructures,Engineering & Construction , 1k-5k Employees , 100  ,2000.0,,"Salary & Benefits, Promotions / Appraisal, Company Culture",3.3,3.3,3.2,3.1,3.4,3.2,2.7,2.8
+TVS Supply Chain Solutions,Logistics , 1k-5k Employees , 128  ,1900.0,,"Promotions / Appraisal, Salary & Benefits",3.9,3.7,3.6,3.5,3.7,3.6,3.3,3.1
+Lava International,Consumer Electronics & Appliances , 1k-5k Employees (Global) , 15  ,1900.0,"Skill Development / Learning, Company Culture, Work Life Balance",,4.1,3.8,3.9,3.9,4.0,3.8,3.8,3.5
+Shree Cement,Building Material , 5k-10k Employees , 45  ,1900.0,,Promotions / Appraisal,4.0,3.5,3.7,3.6,3.6,3.6,3.6,3.3
+Taj Hotels Resorts and Palaces,Hospitality , 10k-50k Employees , 121  ,1900.0,"Job Security, Company Culture, Skill Development / Learning",,4.2,4.3,3.9,4.2,4.1,3.9,3.8,3.6
+Voltas,Consumer Electronics & Appliances , 1k-5k Employees , 70  ,1900.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,4.1,3.9,3.9,3.9,3.7,3.6,3.3
+Fortis Healthcare,Healthcare , 1k-5k Employees , 28  ,1900.0,"Skill Development / Learning, Job Security, Company Culture",,4.1,3.9,3.9,3.9,4.0,3.8,3.6,3.5
+KFintech,FinTech , 5k-10k Employees , 7  ,1900.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.6,3.8,3.5,3.3,3.3,3.3,2.7,2.6
+Tractors and Farm Equipment,Industrial Machinery , 10k-50k Employees , 64  ,1900.0,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,3.7,3.8,3.8,3.9,3.8,3.6,3.2
+State Street Syntel,Financial Services , 501-1k Employees , 20  ,1900.0,Job Security,"Salary & Benefits, Promotions / Appraisal",3.7,4.0,3.5,3.6,3.7,3.4,2.8,3.0
+Mahindra Logistics,Logistics , 1k-5k Employees , 24  ,1900.0,"Skill Development / Learning, Company Culture",Promotions / Appraisal,4.0,3.7,3.7,3.8,3.9,3.7,3.5,3.3
+Yazaki,Auto Components , 10k-50k Employees , 83  ,1900.0,,Promotions / Appraisal,3.8,3.7,3.5,3.5,3.7,3.5,3.4,3.2
+DS Group,FMCG , 1k-5k Employees , 95  ,1900.0,"Work Life Balance, Job Security, Salary & Benefits",Promotions / Appraisal,4.1,3.9,3.9,3.8,3.7,3.7,3.8,3.3
+Dalmia Bharat Cement,Building Material , 5k-10k Employees , 89  ,1900.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.0,4.0,3.7,3.8,3.8,3.7,3.9,3.5
+Indus Towers,Telecom , 1k-5k Employees , 17  ,1900.0,,Promotions / Appraisal,3.9,3.5,3.4,3.7,3.6,3.5,3.7,3.3
+ACT Fibernet,Telecom , 5k-10k Employees , 16  ,1900.0,"Company Culture, Job Security, Salary & Benefits",,4.0,4.0,3.7,4.0,3.8,3.6,3.8,3.5
+ZS,Management Consulting , 5k-10k Employees , 41  ,1900.0,Salary & Benefits,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",3.5,3.5,2.2,3.5,3.4,3.0,3.8,3.3
+Himalaya Wellness,Pharma , 5k-10k Employees , 94  ,1900.0,"Work Life Balance, Company Culture, Skill Development / Learning",,4.2,3.8,4.0,3.9,3.9,3.8,3.9,3.4
+Ola Cabs,Internet , 1k-5k Employees , 14  ,1900.0,,"Job Security, Promotions / Appraisal, Company Culture",3.4,2.7,3.2,3.1,3.4,3.2,3.5,2.9
+Fujitsu,IT Services & Consulting , 5k-10k Employees , 89  ,1900.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,3.8,3.8,4.0,3.8,3.6,3.5,3.5,3.2
+PhonePe,FinTech , 5k-10k Employees , 9  ,1900.0,"Salary & Benefits, Job Security, Company Culture",,4.0,3.8,3.7,3.8,3.7,3.6,4.0,3.4
+Extramarks Education,EdTech , 1k-5k Employees , 17  ,1900.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.4,2.9,3.2,3.2,3.2,3.1,3.4,3.0
+Blue Star,Consumer Electronics & Appliances , 1k-5k Employees , 81  ,1900.0,"Company Culture, Skill Development / Learning, Work Satisfaction",,4.0,3.8,3.7,3.9,3.9,3.8,3.8,3.4
+SRF,Chemicals , 5k-10k Employees , 54  ,1800.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.2,4.3,3.9,4.0,4.1,3.9,4.1,3.6
+Aditya Birla Group,Building Material , 1 Lakh+ Employees , 167  ,1800.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.2,4.0,4.0,4.1,3.9,3.8,3.6
+Mahindra Rural Housing Finance,NBFC , 10k-50k Employees , 17  ,1800.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.1,3.8,3.9,3.9,3.8,3.7,3.7,3.4
+VVDN Technologies,IT Services & Consulting , 5k-10k Employees , 17  ,1800.0,,"Promotions / Appraisal, Salary & Benefits, Company Culture",3.6,3.4,3.3,3.3,3.6,3.4,3.2,3.1
+Lifestyle,Retail , 10k-50k Employees , 25  ,1800.0,"Job Security, Company Culture, Skill Development / Learning",,4.4,4.3,4.2,4.3,4.3,4.1,4.0,3.8
+Ajanta Pharma,Pharma , 5k-10k Employees , 51  ,1800.0,"Job Security, Work Life Balance, Skill Development / Learning",,4.0,3.9,3.8,3.7,3.8,3.7,3.7,3.5
+V-Mart,Retail , 5k-10k Employees , 22  ,1800.0,"Skill Development / Learning, Job Security, Company Culture",,4.2,4.1,4.0,4.0,4.2,3.9,3.8,3.7
+Citicorp,Financial Services , 10k-50k Employees , 27  ,1800.0,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",3.7,3.7,3.4,3.4,3.3,3.3,3.9,3.2
+Sonalika Tractors,Automobile , 1k-5k Employees , 55  ,1800.0,Job Security,"Promotions / Appraisal, Company Culture, Work Life Balance",3.8,3.8,3.4,3.3,3.5,3.4,3.4,3.2
+Ninjacart,Internet , 1k-5k Employees , 9  ,1800.0,"Salary & Benefits, Skill Development / Learning, Company Culture",,4.0,3.6,3.7,3.9,3.9,3.8,3.9,3.6
+Shell,Oil & Gas , 10k-50k Employees , 117  ,1800.0,"Work Life Balance, Company Culture, Salary & Benefits",,4.2,3.8,4.4,4.2,3.9,3.8,4.0,3.5
+PVR Cinemas,Media & Entertainment , 1k-5k Employees , 27  ,1800.0,"Skill Development / Learning, Job Security, Company Culture",,4.1,3.8,3.7,3.8,3.9,3.8,3.7,3.4
+Delhi Public School,Education & Training , 1k-5k Employees , 26  ,1800.0,Skill Development / Learning,,3.9,3.6,3.6,3.6,3.8,3.6,3.6,3.4
+Datamatics Global Services,IT Services & Consulting , 5k-10k Employees , 49  ,1800.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.5,3.4,3.4,3.3,3.4,3.2,3.0,2.8
+Info Edge,Internet , 5k-10k Employees , 29  ,1800.0,"Job Security, Company Culture, Work Life Balance",,4.0,4.2,3.8,3.8,3.6,3.6,3.6,3.4
+NoBroker,Real Estate , 1k-5k Employees , 10  ,1800.0,,"Promotions / Appraisal, Work Satisfaction, Job Security",3.2,2.8,2.9,3.0,3.0,2.8,3.2,2.8
+Movate,IT Services & Consulting , 1k-5k Employees , 28  ,1800.0,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,3.3,3.3,3.2,3.3,3.2,2.9,2.7
+Eureka Forbes,Consumer Electronics & Appliances , 1k-5k Employees , 42  ,1800.0,,"Promotions / Appraisal, Job Security, Salary & Benefits",3.7,3.2,3.4,3.4,3.6,3.4,3.3,3.1
+Nokia Networks,Hardware & Networking , 501-1k Employees ,Unknown,1800.0,"Company Culture, Work Life Balance, Skill Development / Learning",,4.3,4.0,4.2,4.3,4.1,4.1,3.8,3.6
+Tata Elxsi,IT Services & Consulting , 5k-10k Employees , 35  ,1800.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",4.0,4.4,3.9,3.9,3.8,3.6,3.4,3.4
+Parle Agro,Beverage , 5k-10k Employees , 40  ,1800.0,"Job Security, Work Life Balance, Skill Development / Learning",,4.1,4.0,3.9,3.8,3.8,3.8,3.8,3.5
+Cholamandalam MS General Insurance,Insurance , 1k-5k Employees , 23  ,1800.0,,Promotions / Appraisal,3.9,3.7,3.7,3.6,3.6,3.6,3.6,3.3
+suzuki motor gujarat,Fortune India 500 , Becharaji +96 more,Unknown,1800.0,"Job Security, Salary & Benefits, Company Culture",,4.3,4.3,3.9,4.1,4.0,4.0,4.1,3.9
+Radisson Hotels,Hospitality , 5k-10k Employees , 115  ,1800.0,"Skill Development / Learning, Job Security, Work Life Balance",,4.0,3.8,3.8,3.8,3.9,3.8,3.6,3.6
+Kansai Nerolac Paints,Chemicals , 1k-5k Employees , 104  ,1800.0,Job Security,Promotions / Appraisal,3.9,3.8,3.6,3.5,3.6,3.5,3.5,3.2
+Kalpataru Power Transmission,Engineering & Construction , 1k-5k Employees , 43  ,1800.0,"Job Security, Skill Development / Learning, Company Culture",,4.1,4.0,3.8,3.9,3.9,3.8,3.8,3.5
+Cybage,IT Services & Consulting , 5k-10k Employees , 29  ,1800.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,3.9,4.0,3.9,3.8,3.6,3.5,3.5,3.3
+Emcure Pharmaceuticals,Pharma , 5k-10k Employees , 43  ,1800.0,,"Promotions / Appraisal, Job Security, Work Satisfaction",3.8,3.3,3.5,3.4,3.6,3.4,3.6,3.3
+Unacademy,EdTech , 1k-5k Employees , 9  ,1800.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.1,2.2,2.8,2.8,2.9,2.7,3.3,2.5
+Life Insurance Corporation of India,Insurance , 1 Lakh+ Employees , 68  ,1700.0,"Work Life Balance, Company Culture, Salary & Benefits",,4.4,4.1,4.3,4.3,4.2,4.1,4.2,3.9
+MSN Laboratories,Pharma , 10k-50k Employees , 21  ,1700.0,Job Security,Company Culture,3.8,4.0,3.4,3.3,3.5,3.4,3.5,3.5
+Mahindra Holidays & Resorts,Hospitality , 5k-10k Employees , 28  ,1700.0,,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",3.6,3.4,3.0,3.2,3.4,3.1,3.6,2.9
+Foundever,BPO , 5k-10k Employees , 39  ,1700.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.7,3.8,3.7,3.6,3.6,3.5,3.3,3.1
+ICICI Securities,Financial Services , 1k-5k Employees , 29  ,1700.0,Job Security,Promotions / Appraisal,3.9,3.9,3.6,3.5,3.7,3.4,3.6,3.4
+Blinkit,Internet , 1k-5k Employees , 11  ,1700.0,,"Job Security, Promotions / Appraisal",3.8,3.1,3.5,3.5,3.7,3.4,3.7,3.3
+Google,Internet , 10k-50k Employees , 29  ,1700.0,"Company Culture, Salary & Benefits, Work Life Balance",,4.4,4.2,4.4,4.4,4.3,4.3,4.4,4.2
+Myntra,Internet , 1k-5k Employees , 17  ,1700.0,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,4.0,3.7,3.8,3.9,3.9,3.7,3.7,3.3
+KPMG Global Services,Bangalore / Bengaluru +30 more, 10k-50k Employees ,Unknown,1700.0,Job Security,"Promotions / Appraisal, Work Satisfaction",3.7,3.8,3.5,3.6,3.6,3.3,3.4,3.2
+Jindal Stainless,Iron & Steel , 1k-5k Employees , 54  ,1700.0,"Job Security, Skill Development / Learning, Work Life Balance",,4.2,4.2,3.9,3.8,4.0,3.8,3.8,3.6
+JMC Projects,Engineering & Construction , 1k-5k Employees , 42  ,1700.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.2,4.0,3.8,3.9,4.0,3.8,4.0,3.8
+Akums Drugs & Pharmaceuticals Limited,Pharma , 10k-50k Employees , 20  ,1700.0,"Job Security, Skill Development / Learning, Company Culture",,4.4,4.3,4.1,4.2,4.3,4.2,4.2,4.1
+Planet Spark,EdTech , 51-200 Employees , 7  ,1700.0,Skill Development / Learning,Promotions / Appraisal,3.7,3.5,3.7,3.6,3.8,3.6,3.5,3.4
+Rivigo,Internet , 1k-5k Employees , 10  ,1700.0,Skill Development / Learning,"Promotions / Appraisal, Job Security, Salary & Benefits",3.9,3.3,3.6,3.5,3.8,3.6,3.4,3.2
+3i Infotech,IT Services & Consulting , 1k-5k Employees , 31  ,1700.0,,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",3.6,3.5,3.4,3.3,3.3,3.3,3.2,2.9
+Indian Railways,Railways , 1 Lakh+ Employees , 171  ,1700.0,"Job Security, Salary & Benefits, Skill Development / Learning",,4.1,4.1,3.9,3.8,3.9,3.8,3.9,3.5
+Syngene International,Pharma , 1k-5k Employees , 31  ,1700.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,3.9,4.0,3.8,3.8,3.8,3.5,3.4,3.0
+Pfizer,Pharma , 1k-5k Employees , 20  ,1700.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.1,3.6,4.0,4.0,4.0,3.7,3.8,3.3
+upGrad,EdTech , 5k-10k Employees , 9  ,1700.0,"Salary & Benefits, Skill Development / Learning",,3.8,3.5,3.6,3.7,3.8,3.6,3.9,3.5
+Cadila Pharmaceuticals,Pharma , 5k-10k Employees , 73  ,1700.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.5,2.9,3.4,3.2,3.3,3.2,3.4,2.9
+GlaxoSmithKline Pharmaceuticals,Pharma , 1k-5k Employees , 194  ,1700.0,"Company Culture, Skill Development / Learning, Work Life Balance",,4.2,3.8,4.1,4.1,4.1,3.9,4.0,3.5
+Future Retail,Retail , 10k-50k Employees , 37  ,1700.0,"Skill Development / Learning, Company Culture, Work Satisfaction",,4.3,4.0,4.1,4.2,4.2,4.1,4.0,3.8
+JCB,Industrial Machinery , 1k-5k Employees , 79  ,1700.0,"Work Life Balance, Company Culture",Promotions / Appraisal,4.0,3.5,3.8,3.8,3.7,3.7,3.7,3.3
+Reliance Trends,Retail , 1 Lakh+ Employees , 18  ,1700.0,"Skill Development / Learning, Job Security, Company Culture",,4.3,4.3,4.0,4.2,4.4,4.0,4.0,3.8
+Adani Power,Power , 1k-5k Employees , 18  ,1700.0,"Job Security, Skill Development / Learning, Salary & Benefits",,4.0,3.9,3.6,3.7,3.9,3.6,3.8,3.5
+Fincare Small Finance Bank,Banking , 10k-50k Employees , 17  ,1700.0,"Job Security, Work Life Balance, Salary & Benefits",,4.1,3.9,3.9,3.8,3.8,3.7,3.8,3.7
+Gallagher,Insurance , 10k-50k Employees , 97  ,1700.0,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",3.9,4.0,3.9,4.0,3.7,3.6,3.2,3.1
+Whirlpool,Consumer Electronics & Appliances , 1k-5k Employees , 113  ,1700.0,"Work Life Balance, Company Culture, Job Security",,4.1,3.9,4.1,4.0,3.8,3.8,3.6,3.4
+American Broadcasting Company,Mumbai +97 more, 10k-50k Employees ,Unknown,1700.0,"Work Life Balance, Salary & Benefits, Job Security",,4.0,3.8,3.9,3.8,3.8,3.8,3.9,3.8
+Renault-Nissan,Automobile , 10k-50k Employees , 17  ,1600.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.2,4.0,3.9,3.9,3.9,3.8,3.5,3.3
+Care Health Insurance,Internet , 5k-10k Employees , 12  ,1600.0,,"Promotions / Appraisal, Salary & Benefits, Company Culture",3.7,3.7,3.5,3.4,3.4,3.4,3.3,3.2
+Raymond Lifestyle Limited,Fashion & Textile , 5k-10k Employees , 99  ,1600.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,4.1,3.9,4.0,3.9,3.8,3.8,3.8,3.4
+Sobha,Real Estate , 1k-5k Employees , 29  ,1600.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,4.0,4.0,3.5,3.6,3.8,3.6,3.4,3.3
+Bharat Petroleum,Oil & Gas , 5k-10k Employees , 72  ,1600.0,"Skill Development / Learning, Salary & Benefits, Job Security",,4.1,3.9,3.8,3.8,4.0,3.8,3.9,3.4
+BHEL,Electrical Equipment , 10k-50k Employees , 60  ,1600.0,"Job Security, Work Life Balance, Company Culture",,4.2,4.2,4.0,3.9,3.9,3.9,3.8,3.5
+Cisco,Hardware & Networking , 10k-50k Employees , 40  ,1600.0,"Work Life Balance, Company Culture, Skill Development / Learning",,4.3,3.8,4.3,4.3,4.0,3.9,4.0,3.6
+Bharat Financial Inclusion,NBFC , 10k-50k Employees , 26  ,1600.0,"Salary & Benefits, Job Security, Company Culture",,4.0,3.9,3.6,3.8,3.8,3.6,4.1,3.7
+IntouchCX,BPO , 5k-10k Employees , 23  ,1600.0,,"Promotions / Appraisal, Job Security, Work Satisfaction",3.0,2.7,2.8,2.8,2.9,2.7,2.8,2.5
+Ambuja Cements,Building Material , 5k-10k Employees , 41  ,1600.0,,Promotions / Appraisal,3.9,3.4,3.5,3.5,3.6,3.5,3.6,3.2
+Aavas Financiers,Financial Services , 5k-10k Employees , 13  ,1600.0,Skill Development / Learning,,3.9,3.7,3.6,3.6,3.8,3.6,3.6,3.5
+Intellect Design Arena,FinTech , 5k-10k Employees , 13  ,1600.0,"Job Security, Company Culture, Skill Development / Learning",,4.0,4.2,3.8,3.8,3.8,3.8,3.8,3.7
+Bharti AXA Life Insurance,Insurance , 1k-5k Employees , 18  ,1600.0,Work Life Balance,,3.9,3.6,3.8,3.7,3.7,3.6,3.7,3.5
+Canara HSBC Life Insurance,Insurance , 5k-10k Employees , 16  ,1600.0,,,3.7,3.5,3.6,3.5,3.6,3.4,3.7,3.5
+Sopra Steria,IT Services & Consulting , 5k-10k Employees , 56  ,1600.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,4.0,4.1,4.1,4.0,3.7,3.7,3.6,3.3
+Endurance Technologies,Auto Components , 1k-5k Employees , 39  ,1600.0,,Promotions / Appraisal,3.9,3.5,3.6,3.5,3.7,3.5,3.5,3.3
+Shahi Exports,Fashion & Textile , 1 Lakh+ Employees , 50  ,1600.0,"Job Security, Company Culture, Skill Development / Learning",,4.1,4.0,3.8,3.8,3.8,3.8,3.6,3.4
+DBS Bank,Banking , 5k-10k Employees , 56  ,1600.0,"Salary & Benefits, Job Security",,3.9,3.8,3.6,3.7,3.7,3.5,3.9,3.4
+GVK Emergency Management and Research Institute,Non-Profit , 10k-50k Employees , 19  ,1600.0,,"Promotions / Appraisal, Job Security, Salary & Benefits",3.7,3.2,3.4,3.3,3.5,3.4,3.3,3.1
+RMSI,IT Services & Consulting , 1k-5k Employees , 32  ,1600.0,,"Promotions / Appraisal, Salary & Benefits",3.7,3.7,3.6,3.6,3.4,3.5,3.0,2.9
+Kalyan Jewellers,Jewellery , 5k-10k Employees , 31  ,1600.0,"Company Culture, Skill Development / Learning, Salary & Benefits",,4.7,4.6,4.6,4.6,4.6,4.6,4.6,4.5
+Force Motors,Automobile , 1k-5k Employees , 66  ,1600.0,,"Promotions / Appraisal, Company Culture, Salary & Benefits",3.6,3.5,3.5,3.1,3.4,3.3,3.2,3.0
+Dhani Loans and Services,NBFC , 1k-5k Employees ,Unknown,1600.0,,"Job Security, Promotions / Appraisal",3.9,3.1,3.7,3.5,3.6,3.6,3.6,3.2
+Allsec Technologies,BPO , 1k-5k Employees , 24  ,1600.0,"Job Security, Company Culture",Promotions / Appraisal,4.0,3.9,3.7,3.8,3.7,3.7,3.4,3.3
+Bureau Veritas,Other , 1k-5k Employees , 196  ,1600.0,"Work Life Balance, Job Security",Promotions / Appraisal,4.0,3.8,3.8,3.7,3.7,3.7,3.5,3.2
+Straive,Analytics & KPO , 10k-50k Employees , 44  ,1600.0,,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",3.5,3.3,3.4,3.3,3.1,3.2,2.8,2.5
+Cargill,Food Processing , 1k-5k Employees , 159  ,1500.0,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,4.1,4.0,4.0,4.0,3.8,3.7,4.0,3.3
+Meesho,Internet , 5k-10k Employees , 9  ,1500.0,Salary & Benefits,"Job Security, Promotions / Appraisal",3.7,3.2,3.6,3.6,3.6,3.5,3.8,3.3
+ValueLabs,IT Services & Consulting , 5k-10k Employees , 27  ,1500.0,Salary & Benefits,,3.8,3.4,3.7,3.7,3.4,3.5,3.8,3.5
+Tata Motors Finance,NBFC , 1k-5k Employees , 67  ,1500.0,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,4.1,3.9,3.8,3.9,3.9,3.7,3.7,3.3
+Adani Wilmar,FMCG , 1k-5k Employees , 25  ,1500.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.2,3.8,3.8,3.9,3.8,3.8,3.5
+Sterling & Wilson,Engineering & Construction , 501-1k Employees , 97  ,1500.0,"Work Life Balance, Company Culture, Skill Development / Learning",,4.1,3.8,3.9,3.9,3.8,3.8,3.7,3.4
+Niva Bupa Health Insurance Company,Insurance , 5k-10k Employees , 16  ,1500.0,,"Promotions / Appraisal, Work Satisfaction, Job Security",3.7,3.4,3.5,3.4,3.5,3.4,3.6,3.2
+Photon Interactive,IT Services & Consulting , 1k-5k Employees , 25  ,1500.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",,4.0,3.9,4.0,3.9,4.1,4.0,4.1,3.9
+Renault Nissan Technology & Business Centre India,Automobile , 5k-10k Employees , 17  ,1500.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",3.8,4.1,4.0,3.7,3.6,3.5,3.3,3.1
+Gabriel India,Auto Components , 1k-5k Employees , 63  ,1500.0,"Job Security, Skill Development / Learning, Company Culture",,4.2,4.3,3.9,4.2,4.2,3.8,3.7,3.6
+Sify Technologies,IT Services & Consulting , 1k-5k Employees , 29  ,1500.0,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal,3.9,3.8,3.8,3.7,3.9,3.7,3.5,3.2
+Citibank,Banking , 10k-50k Employees (Global) , 212  ,1500.0,"Salary & Benefits, Job Security, Company Culture",,3.9,3.8,3.7,3.8,3.6,3.6,4.0,3.4
+JK Tyres,Auto Components , 1k-5k Employees , 73  ,1500.0,,"Promotions / Appraisal, Company Culture, Salary & Benefits",3.7,3.5,3.3,3.2,3.5,3.3,3.2,3.1
+TCE,Engineering & Construction , 5k-10k Employees , 62  ,1500.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",3.8,3.9,3.8,3.6,3.6,3.5,3.3,3.0
+AECOM,Engineering & Construction , 1k-5k Employees , 34  ,1500.0,"Work Life Balance, Company Culture, Work Satisfaction",,4.3,3.8,4.1,4.1,4.0,4.0,3.9,3.6
+Power Mech Projects,Engineering & Construction , 1k-5k Employees , 17  ,1500.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.9,3.8,3.6,3.5,3.7,3.6,3.4,3.3
+Apollo Pharmacy,Pharma , 10k-50k Employees , 41  ,1500.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,3.9,3.9,3.7,3.6,3.9,3.6,3.5,3.3
+Lucas-TVS,Auto Components , 5k-10k Employees , 62  ,1500.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,4.0,3.8,3.7,3.7,3.9,3.7,3.5,3.2
+Matrimony.com,Internet , 1k-5k Employees , 27  ,1500.0,"Company Culture, Job Security, Work Life Balance",,4.4,4.3,4.2,4.4,4.2,4.2,4.2,4.0
+Allstate,Insurance , 5k-10k Employees , 12  ,1500.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,3.9,3.8,4.0,3.9,3.8,3.6,3.8,3.3
+Poonawalla Fincorp,NBFC , 5k-10k Employees , 35  ,1600.0,,Promotions / Appraisal,3.8,3.4,3.7,3.7,3.7,3.6,3.7,3.3
+KIA MOTORS,Automobile , 1k-5k Employees , 80  ,1600.0,,Promotions / Appraisal,3.9,3.7,3.5,3.6,3.7,3.4,3.4,3.3
+Lodha Group,Real Estate , 5k-10k Employees , 44  ,1600.0,"Skill Development / Learning, Company Culture, Salary & Benefits",,4.1,3.9,4.0,4.0,4.0,3.9,4.0,3.6
+Star Health & Allied Insurance,Insurance , 10k-50k Employees , 18  ,1600.0,,Promotions / Appraisal,3.8,3.7,3.6,3.5,3.6,3.5,3.4,3.2
+Delphi TVS,Auto Components , 1k-5k Employees , 35  ,1600.0,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,4.0,3.7,3.7,3.8,4.0,3.8,3.5,3.1
+CAMS,IT Services & Consulting , 5k-10k Employees , 36  ,1600.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.7,4.0,3.6,3.6,3.6,3.5,3.0,2.9
+KENT RO Systems,Consumer Electronics & Appliances , 1k-5k Employees , 25  ,1600.0,"Work Life Balance, Work Satisfaction, Company Culture",,4.0,3.8,4.0,3.9,3.8,3.9,3.9,3.6
+Brakes India,Auto Components , 501-1k Employees , 62  ,1600.0,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal,4.0,3.9,3.8,3.8,3.9,3.8,3.5,3.2
+Hero FinCorp,NBFC , 1k-5k Employees , 33  ,1500.0,"Company Culture, Work Life Balance, Skill Development / Learning",,4.1,3.8,4.0,4.0,3.9,3.8,3.8,3.4
+ITC Hotels,Hospitality , 5k-10k Employees , 49  ,1500.0,"Job Security, Skill Development / Learning, Company Culture",,4.1,4.1,3.8,3.9,4.0,3.8,3.7,3.5
+Varroc Group,Auto Components , 1k-5k Employees , 36  ,1500.0,,Promotions / Appraisal,3.8,3.5,3.6,3.4,3.6,3.4,3.4,3.2
+Optum Global Solutions,IT Services & Consulting , 10k-50k Employees , 22  ,1500.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.1,4.2,4.1,4.0,3.7,3.8,3.6,3.2
+Tata Teleservices,Telecom , 201-500 Employees , 28  ,1500.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.0,3.7,3.9,3.8,3.8,3.7,3.7,3.4
+ESAF Microfinance & Investments (P),Financial Services , 1k-5k Employees , 8  ,1500.0,,,3.9,3.7,3.7,3.7,3.7,3.5,3.6,3.4
+Coromandel International,Agro Chemicals , 5k-10k Employees , 63  ,1500.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,4.1,4.2,3.8,3.8,3.8,3.7,3.6,3.4
+SAP,Software Product , 10k-50k Employees , 52  ,1500.0,"Work Life Balance, Company Culture, Job Security",,4.3,4.3,4.4,4.3,4.0,4.0,3.7,3.6
+Bank of Baroda,Banking , 50k-1 Lakh Employees , 116  ,1500.0,Job Security,"Promotions / Appraisal, Work Satisfaction, Company Culture",3.6,4.0,3.3,3.2,3.4,3.2,3.5,3.1
+Laurus Labs,Pharma , 5k-10k Employees , 19  ,1500.0,"Job Security, Company Culture, Salary & Benefits",,4.2,4.2,3.9,4.0,3.9,3.8,3.9,3.6
+Future Generali India Life Insurance,Insurance , 1k-5k Employees , 17  ,1500.0,,Promotions / Appraisal,3.7,3.5,3.6,3.6,3.5,3.4,3.6,3.3
+Microsoft Corporation,Software Product , 10k-50k Employees , 49  ,1500.0,"Company Culture, Work Life Balance, Skill Development / Learning",,4.1,3.7,4.1,4.1,3.9,3.8,3.9,3.6
+NeoSOFT,IT Services & Consulting , 1k-5k Employees , 28  ,1500.0,"Skill Development / Learning, Work Life Balance, Work Satisfaction",,4.0,3.7,3.9,3.8,4.0,3.8,3.8,3.7
+Taurus BPO Services,BPO , 1k-5k Employees , 9  ,1500.0,"Skill Development / Learning, Company Culture, Job Security",,4.6,4.6,4.5,4.6,4.6,4.5,4.5,4.5
+YASH Technologies,IT Services & Consulting , 5k-10k Employees , 28  ,1500.0,"Work Life Balance, Company Culture",Promotions / Appraisal,3.8,3.6,3.9,3.8,3.6,3.6,3.6,3.4
+HCL Infosystems,IT Services & Consulting , 51-200 Employees , 48  ,1500.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.0,4.0,3.9,3.8,3.7,3.7,3.5,3.4
+Crisil,Financial Services , 1k-5k Employees , 37  ,1500.0,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",3.7,3.8,3.6,3.8,3.5,3.4,3.1,3.0
+Parle Products,Food Processing , 1k-5k Employees , 95  ,1500.0,Salary & Benefits,,4.0,3.5,3.6,3.5,3.7,3.5,3.9,3.5
+Thomson Reuters,Software Product , 5k-10k Employees , 16  ,1400.0,"Work Life Balance, Company Culture, Job Security",,4.2,4.1,4.3,4.2,3.8,3.9,3.7,3.4
+CitiusTech,IT Services & Consulting , 1k-5k Employees , 19  ,1400.0,,"Promotions / Appraisal, Job Security, Salary & Benefits",3.4,3.1,3.5,3.4,3.4,3.1,3.1,2.8
+L&T Energy Hydrocarbon,Engineering & Construction , 5k-10k Employees , 15  ,1400.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance",4.0,4.0,3.3,3.5,3.9,3.6,3.4,3.2
+IDBI Bank,Banking , 10k-50k Employees , 60  ,1400.0,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",3.7,3.8,3.3,3.3,3.4,3.2,3.7,2.9
+SBI General Insurance,Insurance , 5k-10k Employees , 15  ,1400.0,,Promotions / Appraisal,3.8,3.7,3.6,3.6,3.6,3.4,3.6,3.2
+Hindustan Aeronautics,Defence & Aerospace , 10k-50k Employees , 84  ,1400.0,"Skill Development / Learning, Work Life Balance, Job Security",,4.4,4.1,4.2,4.1,4.2,4.1,3.8,3.6
+Dr Lal PathLabs,Healthcare , 1k-5k Employees , 75  ,1400.0,"Skill Development / Learning, Job Security, Company Culture",,4.2,4.0,4.0,4.0,4.0,3.9,3.9,3.6
+Vedantu,EdTech , 1k-5k Employees , 13  ,1400.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.4,2.5,3.0,3.1,3.1,2.9,3.2,2.8
+Novartis,Pharma , 1k-5k Employees , 28  ,1400.0,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,4.1,3.8,4.2,4.1,3.8,3.8,3.9,3.3
+Reliance General Insurance,Insurance , 5k-10k Employees , 24  ,1400.0,,Promotions / Appraisal,3.8,3.5,3.5,3.5,3.6,3.4,3.5,3.1
+café Coffee day,Hospitality , 1k-5k Employees , 28  ,1400.0,,"Promotions / Appraisal, Salary & Benefits",3.9,3.6,3.7,3.6,3.7,3.6,3.3,3.2
+Xoriant,IT Services & Consulting , 1k-5k Employees , 34  ,1400.0,"Work Life Balance, Company Culture",Promotions / Appraisal,3.8,3.5,4.0,3.8,3.7,3.7,3.7,3.4
+Tata Advanced Systems,Defence & Aerospace , 5k-10k Employees , 17  ,1400.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.8,4.2,3.6,3.6,3.7,3.5,3.3,3.0
+Uflex,Packaging , 5k-10k Employees , 39  ,1400.0,Job Security,"Promotions / Appraisal, Company Culture",3.8,3.8,3.6,3.3,3.5,3.4,3.5,3.2
+SS&C TECHNOLOGIES,IT Services & Consulting , 5k-10k Employees , 38  ,1400.0,,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",3.5,3.7,3.1,3.2,3.3,3.2,3.2,3.0
+NCR Corporation,IT Services & Consulting , 5k-10k Employees , 140  ,1400.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,4.0,3.8,3.9,3.9,3.6,3.7,3.6,3.2
+Tata Play,Broadcasting , 5k-10k Employees , 18  ,1400.0,"Job Security, Company Culture, Salary & Benefits",,4.0,4.0,3.8,4.0,3.9,3.7,3.9,3.5
+Spark Minda,Auto Components , 1k-5k Employees , 66  ,1400.0,,Promotions / Appraisal,3.9,3.5,3.5,3.5,3.7,3.5,3.5,3.3
+Honda,Automobile , 10k-50k Employees , 39  ,1400.0,"Job Security, Work Life Balance, Company Culture",,4.2,4.1,4.1,4.0,4.0,4.0,3.9,3.8
+G R Infraprojects,Engineering & Construction , 10k-50k Employees , 29  ,1400.0,"Salary & Benefits, Skill Development / Learning, Work Life Balance",,4.2,3.7,3.8,3.8,3.9,3.8,3.9,3.7
+NEC,IT Services & Consulting , 5k-10k Employees , 125  ,1400.0,"Work Life Balance, Company Culture, Salary & Benefits",,4.4,4.3,4.4,4.3,4.3,4.2,4.3,4.1
+Honeywell Automation,Consumer Electronics & Appliances , 10k-50k Employees , 118  ,1400.0,Job Security,"Promotions / Appraisal, Salary & Benefits",3.8,3.8,3.6,3.7,3.6,3.5,3.3,3.1
+Saint-Gobain,Engineering & Construction , 10k-50k Employees , 359  ,1400.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,4.0,4.2,3.9,4.0,3.9,3.7,3.5,3.3
+PHN Technology,Pune +30 more, 10k-50k Employees ,Unknown,1400.0,"Skill Development / Learning, Work Satisfaction, Company Culture",,4.6,4.2,4.4,4.5,4.6,4.5,4.1,4.2
+Angel One,FinTech , 1k-5k Employees , 28  ,1400.0,"Company Culture, Work Life Balance, Job Security",,4.0,3.8,3.9,3.9,3.7,3.7,3.8,3.5
+Honda Cars,Automobile , 5k-10k Employees , 29  ,1400.0,"Work Life Balance, Company Culture, Work Satisfaction",,4.4,4.1,4.3,4.2,4.1,4.1,4.1,3.8
+R.R. Donnelley,Marketing & Advertising , 5k-10k Employees , 160  ,1400.0,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",4.0,4.3,3.8,4.0,3.8,3.8,3.3,3.1
+Amazon Transportation Services,Logistics , 1k-5k Employees , 12  ,1400.0,"Salary & Benefits, Company Culture, Skill Development / Learning",,4.1,3.7,3.9,4.1,4.1,3.9,4.2,3.6
+Mercedes-Benz Research & Development India,IT Services & Consulting , 5k-10k Employees , 28  ,1300.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,4.0,4.2,4.2,3.9,3.6,3.6,3.7,3.2
+Team Computers,IT Services & Consulting , 1k-5k Employees , 37  ,1300.0,,Promotions / Appraisal,3.7,3.5,3.6,3.5,3.5,3.4,3.4,3.1
+Innovsource Services,Recruitment , 1k-5k Employees , 20  ,1300.0,,Promotions / Appraisal,4.0,3.6,3.7,3.7,3.7,3.7,3.6,3.2
+Chegg,EdTech , 501-1k Employees , 19  ,1300.0,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,4.2,3.5,4.3,4.0,4.1,3.9,3.9,3.4
+CMS Infosystems,IT Services & Consulting , 5k-10k Employees , 16  ,1300.0,,"Promotions / Appraisal, Salary & Benefits, Company Culture",3.7,3.4,3.2,3.2,3.3,3.2,3.1,2.8
+Paisabazaar.com,Internet , 1k-5k Employees , 10  ,1300.0,,"Job Security, Promotions / Appraisal, Work Satisfaction",3.6,3.0,3.2,3.2,3.4,3.1,3.6,3.1
